@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+bin/
+obj/
+*.o
+*.exe
+bench
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local beginner explainer docs (excluded from git as requested)
+DOCS.md
